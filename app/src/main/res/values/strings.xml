@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mws_uas</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at vehicula ante. In ornare urna at ex egestas gravida. Nam nec eros ac elit pharetra posuere. Aliquam rhoncus feugiat nibh at bibendum. Aliquam tincidunt orci quis sem venenatis, nec auctor dui bibendum. Aliquam finibus sed orci sit amet imperdiet. Nam non sem vulputate, dapibus lectus vitae, fringilla velit. Curabitur sollicitudin feugiat libero, eu faucibus odio vehicula at. Mauris sit amet odio massa. Nunc vel pharetra sem. Duis vitae ligula sed lacus malesuada dapibus eget eu ligula. Curabitur porttitor ut nisi vel accumsan. Curabitur ac suscipit velit. Integer non fermentum enim.
+
+Nulla placerat maximus euismod. Cras sed tortor consectetur, laoreet nisl ut, vulputate magna. Fusce ullamcorper, elit ac gravida eleifend, mi massa laoreet velit, et sollicitudin eros turpis ut purus. Nullam dictum eros lorem, vitae tincidunt quam fringilla at. Nam vulputate efficitur sagittis. Fusce commodo urna neque, in aliquam lorem mollis quis. Praesent sed dui vitae justo dignissim vulputate ornare vitae ex.
+
+Vivamus convallis tellus a magna hendrerit maximus. Nam sem urna, pellentesque ac tincidunt vel, semper ac velit. Proin aliquam auctor fermentum. Mauris non sapien ex. Mauris ut consectetur elit. Vestibulum sollicitudin varius lacus, et venenatis mi. Morbi ut ornare tellus. Morbi sed malesuada eros, a blandit tortor. Nunc venenatis, nisi non blandit placerat, erat turpis congue neque, molestie rhoncus nunc nisi dignissim nisi.
+    </string>
+</resources>
